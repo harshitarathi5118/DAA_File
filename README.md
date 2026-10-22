@@ -207,12 +207,12 @@ Lakshmangarh, Rajasthan
   <tr>
     <td>27</td>
     <td>Bellman-Ford Algorithm</td>
-    <td><a href="#program-27-Bellman- -Ford-Algorithm">Program 27</a></td>
+    <td><a href="#program-27-Bellman-Ford-Algorithm">Program 27</a></td>
 
   <tr>
     <td>28</td>
     <td>Dijkstra's Algorithm</td>
-    <td><a href="#program-28-Dijkstra's-Algorithm">Program 28</a></td>
+    <td><a href="#program-28-Dijkstras-Algorithm">Program 28</a></td>
     
 </table>
 
