@@ -197,12 +197,12 @@ Lakshmangarh, Rajasthan
   <tr>
     <td>25</td>
     <td>Breadth First Search (BFS)</td>
-    <td><a href="#program-25-Breadth-First-Search-(BFS)">Program 25</a></td>
+    <td><a href="#program-25-Breadth-First-Search-BFS">Program 25</a></td>
     
   <tr>
     <td>26</td>
     <td>Depth First Search (DFS)</td>
-    <td><a href="#program-26-Depth-First-Search-(DFS)">Program 26</a></td>
+    <td><a href="#program-26-Depth-First-Search-DFS">Program 26</a></td>
     
   <tr>
     <td>27</td>
