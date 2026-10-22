@@ -109,7 +109,7 @@ Lakshmangarh, Rajasthan
   <tr>
     <td>10</td>
     <td>Bubble Sort – Ascending Order and Descending Order</td>
-    <td><a href="#program-10-Bubble-Sort – Ascending-Order-and-Descending-Order">Program 10</a></td>
+    <td><a href="#program-10-Bubble-Sort-Ascending-Order-and-Descending-Order">Program 10</a></td>
   </tr>
 
   <tr>
